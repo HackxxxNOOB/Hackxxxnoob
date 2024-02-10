@@ -1,4 +1,6 @@
 getgenv().Games = {
     [8737899170] = "https://raw.githubusercontent.com/HackxxxNOOB/petsim99/main/VI", -- petsim99
-    [2753915549] = "https://raw.githubusercontent.com/HackxxxNOOB/Anupat/main/Meyou", -- Blox Fruits
+    [2753915549] = "https://raw.githubusercontent.com/HackxxxNOOB/Anupat/main/Meyou", -- Blox Fruits 1
+    [4442272183] = "https://raw.githubusercontent.com/HackxxxNOOB/Anupat/main/Meyou", -- Blox Fruits 2
+    [7449423635] = "https://raw.githubusercontent.com/HackxxxNOOB/Anupat/main/Meyou", -- Blox Fruits 3
  }
